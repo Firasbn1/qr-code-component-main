@@ -25,3 +25,18 @@ You should refactor your code by applying the changes necessary following the cr
 - [ ] change your style sheet to conform to the design (desktop + mobile)
 - [ ] use semantic html
 - [ ] assure responsive design
+
+---
+
+create a report where you answer these questions:
+
+- what is git?
+- what is a git repository?
+- what is the difference between a git repository and a directory?
+- what is the difference between a remote repository and local repository?
+- how to initialize a new git repository?
+- how to add files to staging area?
+- how to commit changes?
+- how to push changes to remote repository?
+- how to connect remote repository with local repository?
+- how to get changes from remote repository into your local repository?
