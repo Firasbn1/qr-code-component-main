@@ -1,49 +1,44 @@
-body { background-color: hsl(212, 45%, 89%);
-    
-    
- }
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
-
-
-
-table {border-radius: 15px;
-    background: #ebebeb;
-    width: 250px;
-    height: 300px;
-    margin: 100px auto;
-    padding:10px ;
-    
-    }
-
-.p{text-align: center;
-font-size:17px ;
-font-weight: bold;
-font-family:system-ui ;
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
-
-
-
-
-.t{text-align: center;
-    font-size:12px ;
-    font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+table {
+  border-radius: 15px;
+  background: #ebebeb;
+  width: 250px;
+  height: 300px;
+  margin: 100px auto;
+  padding: 10px;
 }
 
-
-img {width: 97%;
-    height: 200px;
-    background: #ebebeb;
-    border-radius: 15px;
-    
-
-    
-    }
-@media screen and (max-width: 200px) {
-    table {
-        width: 100%;
-         }
-    
+.p {
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: system-ui;
 }
-            
+
+.t {
+  text-align: center;
+  font-size: 12px;
+  font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+}
+
+img {
+  width: 97%;
+  height: 200px;
+  background: #ebebeb;
+  border-radius: 15px;
+}
+@media screen and (max-width: px) {
+  table {
+    width: 100%;
+  }
+}
